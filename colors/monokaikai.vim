@@ -55,7 +55,7 @@ hi IncSearch           guifg=#000000  guibg=#e54c01  gui=NONE
 hi Search              guifg=#000000  guibg=#baeb01
 hi StatusLine          guifg=#e4e4e4  guibg=#000000  gui=bold
 hi StatusLineNC        guifg=#929292  guibg=#000000  gui=bold
-hi VertSplit           guifg=#000000  guibg=#000000  gui=NONE
+hi VertSplit           guifg=#000000  guibg=NONE
 hi TabLine             guifg=#929292  guibg=#000000  gui=NONE
 hi TabLineSel          guifg=#e4e4e4  guibg=#000000
 hi Folded              guifg=#ae81ff  guibg=#000000  gui=bold
