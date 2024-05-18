@@ -34,7 +34,7 @@ let g:colors_name = "monokaikai"
 " color15  #eeeeec
 
 " Vim UI
-hi Normal              guifg=#e4e4e4
+hi Normal              guifg=#e4e4e4  guibg=#333333
 hi Cursor              guifg=#e4e4e4  guibg=#e6264b 
 hi CursorLine          guibg=#000000                 gui=NONE
 hi MatchParen          guifg=#e4e4e4  guibg=NONE     gui=underline
